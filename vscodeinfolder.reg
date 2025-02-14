@@ -2,7 +2,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\shell\vscode]
 @="Open with VS Code"
-"Icon"="C:\Users\Bhuwan Bhaskar\AppData\Local\Programs\Microsoft VS Code\Code.exe,0"
+"Icon"="C:\Users\XYZ\AppData\Local\Programs\Microsoft VS Code\Code.exe,0"
 
 [HKEY_CLASSES_ROOT\Directory\shell\vscode\command]
-@="\"C:\Users\Bhuwan Bhaskar\AppData\Local\Programs\Microsoft VS Code\Code.exe\" \"%1\""
+@="\"C:\Users\XYZ\AppData\Local\Programs\Microsoft VS Code\Code.exe\" \"%1\""
